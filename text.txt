@@ -8,3 +8,7 @@ dotnet ef database update --> cria o arquivo do banco de dados
 
 -------git lab add ssh ------
 ssh-keymeger
+
+
+-------- nvm
+node version menage --> controlador de versão do node.
