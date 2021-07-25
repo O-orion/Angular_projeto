@@ -1,0 +1,10 @@
+dotnet  ef migrations add init "nome" -o "pasta que eu quero que ele fique"
+
+Cria a nossa migrations --> cria e gerencia nossas schemas no banco de dados
+
+dotnet ef  > mostra os comandos
+
+dotnet ef database update --> cria o arquivo do banco de dados
+
+-------git lab add ssh ------
+ssh-keymeger
